@@ -19,17 +19,21 @@ h1{
     height: 50px;
 }
 button{
-    background-color:white;
+    background-color: rgb(242, 255, 56);
 
     border-radius: 5px;
     
     color: purple;
-    border: white;
-    margin-left: 35.2%;
+    border:black 2px solid;
+
+    margin-left: 47%;
     margin-top: 10px;
     margin-bottom: 30px;
-    width: 500px;
-    height: 30px;
+
+    width: 100px;
+    height: 40px;
+
+    font-size: 20px;
 }
 img{
     margin-left: 35%;
