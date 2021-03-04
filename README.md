@@ -1,0 +1,1 @@
+# Gerado-de-QR-Code
