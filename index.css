@@ -1,0 +1,49 @@
+body{
+    background: -webkit-linear-gradient(rgb(56, 0, 146), rgb(99, 0, 212), rgb(132, 0, 255)) no-repeat; /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgb(56, 0, 146), rgb(99, 0, 212), rgb(132, 0, 255)) no-repeat; /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgb(56, 0, 146), rgb(99, 0, 212), rgb(132, 0, 255)) no-repeat; /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgb(56, 0, 146), rgb(99, 0, 212), rgb(132, 0, 255)) no-repeat; /* Standard syntax */
+
+    color: white;
+}
+h1{
+    margin-top: 50px;
+    margin-left: 42%;
+}
+#conteudoQRCode{
+    margin-top: 70px;
+    color: purple;
+    margin-left: 35%;
+    border-radius: 15px ;
+    width: 500px;
+    height: 50px;
+}
+button{
+    background-color:white;
+
+    border-radius: 5px;
+    
+    color: purple;
+    border: white;
+    margin-left: 35.2%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 500px;
+    height: 30px;
+}
+img{
+    margin-left: 35%;
+    width: 500px;
+    height: 500px;
+    border-radius: 5%;
+    margin-bottom: 70px;
+}
+a
+{ 
+
+ text-decoration:none; 
+ color: white;
+} 
+p{
+    margin-left: 43%;
+}
