@@ -7,13 +7,13 @@ function GeraQRCode()
                 var GoogleCharts = 'https://chart.googleapis.com/chart?chs=500x500&cht=qr&chl=';
                 var imagemQRCode = GoogleCharts + conteudo;
 
-                if (regex.test(conteudo)) {
+                //if (regex.test(conteudo)) {
                         document.getElementById('imageQRCode').src = imagemQRCode;
                         
-                } 
-                else {  
-                        alert("Digite sua URL na caixa de texto");
-                }
+                //} 
+                //else {  
+                       // alert("Digite sua URL na caixa de texto");
+               // }
 
                 
         
